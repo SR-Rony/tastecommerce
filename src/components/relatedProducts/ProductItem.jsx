@@ -28,7 +28,7 @@ const ProductItem = () => {
           
           <div className=" absolute bottom-3 right-3 p-2 bg-white border rounded shadow-md hover:bg-gray-100 transition-colors hover:opacity-1">
             <FiShare2 className="text-gray-700" />
-          <p className=" hover:translate-x-7 group-hover:opacity-100 absolute bottom-0 right-0 opacity-0 px-3 py-1 bg-black text-white text-sm rounded">Share</p>
+          {/* <p className=" hover:translate-x-7 group-hover:opacity-100 absolute bottom-0 right-0 opacity-0 px-3 py-1 bg-black text-white text-sm rounded">Share</p> */}
           </div>
 
         </div>
